@@ -9910,3 +9910,27 @@ h4, h5, h6 {
   padding: 0;
   list-style-type: none;
 }
+
+
+/* custom styles start  */
+.navbar-brand{
+  background: white !important;  
+  width: 230px;
+}
+.navbar-brand img{
+  width: 100%;
+}
+
+.logo-container{
+  display: block;
+  background: white !important;  
+}
+
+.logo-container img{
+  width: 100%;
+}
+
+.footer-logo{
+  margin-bottom: 10px;
+}
+/* custom styles end */
